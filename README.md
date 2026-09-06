@@ -40,7 +40,11 @@ The goal is to detect high-risk transaction signals and understand what factors 
 
 - Data Visualization (Charts)
 
+## 📂 Data Source
 
+[#-data-source](#-data-source)
+
+Dataset: [Transactions Fraud Datasets](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets) (Kaggle, by computingvictor)
 
 ## ⚙️ Project Workflow
 
